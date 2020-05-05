@@ -11,6 +11,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - O canal precisa ter material em português
 - Um canal pode ser incluído em até três categorias
 - Manter a ordem alfabética e nas categorias listadas abaixo:
+  - [Actions On Google](#Actions On Google)
   - [Agile](#Agile)
   - [Android](#Android) 
   - [Angular](#Angular) 
@@ -46,7 +47,11 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 # Canais por tópico
 
+### Actions on Google
+- [Amanda Cavallaro](https://www.youtube.com/channel/UCqWXWfuzhDS6zkqRrOqrEEA)
+
 ### Agile
+- [Agilizando!](https://www.youtube.com/channel/UC7SHkNw64rBRnU0zr5M74Yw)
 
 ### Android 
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
