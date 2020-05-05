@@ -96,6 +96,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Área Tech Brasil](https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ)
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
 - [Jamilton Damasceno](https://www.youtube.com/user/jamiltondamasceno2)
+- [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 
 ### Go 
 - [Quero Ser Programador](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
@@ -112,6 +113,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [BrazilJS](https://www.youtube.com/user/BrazilJS)
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+- [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 
 ### Laravel 
 
