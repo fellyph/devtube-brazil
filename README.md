@@ -1,4 +1,4 @@
-# Brazilian Dev Youtube Channels [pt-BR]
+# Brazilian Dev Youtube Channels :brazil:
 
 Curadoria de canais Brasileiros sobre tecnologia
 
