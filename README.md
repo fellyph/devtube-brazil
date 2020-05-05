@@ -50,6 +50,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Android 
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
+- [Tiago Aguiar](https://www.youtube.com/channel/UCrWWMZ6GVOM5zqYAUI44XXg)
 
 ### Angular
 - [Loiane Groner](https://www.youtube.com/user/Loianeg)
@@ -76,13 +77,16 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Flutter
 - [Flutterando](https://www.youtube.com/user/jacobaraujo7)
 - [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
+- [Thizer Aplicativos](https://www.youtube.com/channel/UCwoZZYTjG-RsvaQZVTyc_5w)
 
 ### Front-end
  - [BrazilJS](https://www.youtube.com/user/BrazilJS)
  - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA)
 
 ### Geral
+- [Área Tech Brasil](https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ)
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+- [Jamilton Damasceno](https://www.youtube.com/user/jamiltondamasceno2)
 
 ### Go 
 
