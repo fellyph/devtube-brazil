@@ -11,7 +11,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - O canal precisa ter material em português
 - Um canal pode ser incluído em até três categorias
 - Manter a ordem alfabética e nas categorias listadas abaixo:
-  - [Actions On Google](#Actions On Google)
+  - [Actions on Google](#Actions-on-Google)
   - [Agile](#Agile)
   - [Android](#Android) 
   - [Angular](#Angular) 
@@ -20,7 +20,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
   - [Carreira](#Carreira) 
   - [Cloud](#Cloud) 
   - [CSS](#CSS) 
-  - [Data-Science](#Data-Science)  
+  - [Data Science](#Data-Science)  
   - [Devops](#Devops) 
   - [Docker](#Docker)
   - [Firebase](#Firebase)
