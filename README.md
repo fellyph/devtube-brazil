@@ -69,6 +69,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### CSS 
 
 ### Data Science 
+- [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
 
 ### Devops 
 
@@ -92,6 +93,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Jamilton Damasceno](https://www.youtube.com/user/jamiltondamasceno2)
 
 ### Go 
+- [Quero Ser Programador](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 
 ### IA
 
