@@ -44,7 +44,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
   - [Vue](#Vue) 
   - [WordPress](#WordPress)
 
-#Canais por tópico
+# Canais por tópico
 
 ### Agile
 
@@ -55,6 +55,8 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Loiane Groner](https://www.youtube.com/user/Loianeg)
 
 ### Arquitetura 
+- [Engenharia Reversa](https://www.youtube.com/channel/UCagV1LuB6C52fFtZwVywZYg)
+- [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 
 ### Back-end
 
@@ -80,6 +82,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Front-end
  - [BrazilJS](https://www.youtube.com/user/BrazilJS)
  - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA)
+ - [O Programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg)
 
 ### Geral
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
@@ -96,6 +99,8 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### JavaScript
 - [BrazilJS](https://www.youtube.com/user/BrazilJS)
+- [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+- [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 
 ### Laravel 
 
@@ -103,6 +108,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 
 ### Node
+- [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/videos)
 
 ### PHP
 
