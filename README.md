@@ -67,11 +67,14 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Back-end
 
 ### Carreira 
+- [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
+- [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
 
 ### Cloud 
 
 ### CSS 
+
 
 ### Data Science 
 - [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
@@ -102,6 +105,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Quero Ser Programador](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 
 ### IA
+- [O computeiro](https://www.youtube.com/channel/UCVQmfJICjDUZOnfwfyu0qMQ)
 
 ### IOT
 - [Alvaro Viebrantz](https://www.youtube.com/channel/UC89Gzw1wIFXganAibMAnCOg)
@@ -129,18 +133,25 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA) 
 
 ### Python 
+- [Curso em Video](https://www.youtube.com/user/cursosemvideo)
 
 ### React 
+- [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+
+### React-Native
+- [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
 ### Ruby 
 
 ### SEO 
 
 ### Unity
+- [Crie seus jogos](https://www.youtube.com/channel/UCXxkw9HWPVXVZsi1oTVvKCQ)
 
 ### Vue 
 
 ### WordPress
+- [Curso em Video](https://www.youtube.com/user/cursosemvideo)
 - [Felipe Elia](https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ)
 - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA)
 - [WordPress sem código](https://www.youtube.com/channel/UCsXW4sUmMWU7oH3hgwRp-gA)
