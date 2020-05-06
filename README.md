@@ -75,9 +75,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
 - [Future Cloud](https://www.youtube.com/user/itirohidaka/videos)
 
-
 ### CSS 
-
 
 ### Data Science 
 - [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
@@ -88,7 +86,6 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Docker
 - [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
-
 
 ### Firebase
 
