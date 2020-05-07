@@ -72,16 +72,20 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
 
 ### Cloud 
+- [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
+- [Future Cloud](https://www.youtube.com/user/itirohidaka/videos)
 
 ### CSS 
-
 
 ### Data Science 
 - [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
 
 ### Devops 
+- [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
+- [Linux 4Fasters](https://www.youtube.com/channel/UCeLm2Lzs0-CBsgiEyGXXI8g)
 
 ### Docker
+- [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
 
 ### Firebase
 
