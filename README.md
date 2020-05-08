@@ -99,7 +99,8 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
  - [BrazilJS](https://www.youtube.com/user/BrazilJS)
  - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA)
  - [O Programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg)
- - [Willian Justen](https://www.youtube.com/user/willjusten/) 
+ - [Davidson Fellipe](https://www.youtube.com/channel/UCHbWMt6KrLUwCexeiAFjUBg)
+ - [Willian Justen](https://www.youtube.com/user/willjusten/)
 
 ### Geral
 - [Área Tech Brasil](https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ)
