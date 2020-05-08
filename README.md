@@ -76,6 +76,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Future Cloud](https://www.youtube.com/user/itirohidaka/videos)
 
 ### CSS 
+ - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
 ### Data Science 
 - [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
@@ -98,6 +99,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
  - [BrazilJS](https://www.youtube.com/user/BrazilJS)
  - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA)
  - [O Programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg)
+ - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
 ### Geral
 - [Área Tech Brasil](https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ)
@@ -122,6 +124,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
+- [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
 ### Laravel 
 
