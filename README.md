@@ -1,10 +1,10 @@
-# Brazilian Dev Youtube Channels :brazil:
+# Canais Brasileiros no Youtube sobre Tecnologia :brazil:
 
 Curadoria de canais Brasileiros sobre tecnologia
 
 ## Objetivo
 
-Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema. 
+Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema.
 
 ## Regras
 
@@ -53,20 +53,20 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Agile
 - [Agilizando!](https://www.youtube.com/channel/UC7SHkNw64rBRnU0zr5M74Yw)
 
-### Android 
+### Android
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
 - [Tiago Aguiar](https://www.youtube.com/channel/UCrWWMZ6GVOM5zqYAUI44XXg)
 
 ### Angular
 - [Loiane Groner](https://www.youtube.com/user/Loianeg)
 
-### Arquitetura 
+### Arquitetura
 - [Engenharia Reversa](https://www.youtube.com/channel/UCagV1LuB6C52fFtZwVywZYg)
 - [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 
 ### Back-end
 
-### Carreira 
+### Carreira
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
@@ -75,13 +75,13 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
 - [Future Cloud](https://www.youtube.com/user/itirohidaka/videos)
 
-### CSS 
+### CSS
  - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
-### Data Science 
+### Data Science
 - [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
 
-### Devops 
+### Devops
 - [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
 - [Linux 4Fasters](https://www.youtube.com/channel/UCeLm2Lzs0-CBsgiEyGXXI8g)
 
@@ -108,7 +108,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Jamilton Damasceno](https://www.youtube.com/user/jamiltondamasceno2)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 
-### Go 
+### Go
 - [Quero Ser Programador](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 
 ### IA
@@ -127,7 +127,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
-### Laravel 
+### Laravel
 
 ### .NET
 - [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
@@ -143,20 +143,20 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Python 
 - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
 
-### React 
+### React
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
 ### React-Native
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 
-### Ruby 
+### Ruby
 
-### SEO 
+### SEO
 
 ### Unity
 - [Crie seus jogos](https://www.youtube.com/channel/UCXxkw9HWPVXVZsi1oTVvKCQ)
 
-### Vue 
+### Vue
 
 ### WordPress
 - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
