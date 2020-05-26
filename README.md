@@ -84,9 +84,11 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Devops
 - [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
 - [Linux 4Fasters](https://www.youtube.com/channel/UCeLm2Lzs0-CBsgiEyGXXI8g)
+- [Matheus Fidelissauro](https://www.youtube.com/channel/UC-JJ1NXjx8QI-tuG0PMFbhA/videos)
 
 ### Docker
 - [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
+- [Matheus Fidelissauro](https://www.youtube.com/channel/UC-JJ1NXjx8QI-tuG0PMFbhA/videos)
 
 ### Firebase
 
