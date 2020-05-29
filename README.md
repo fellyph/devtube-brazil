@@ -109,7 +109,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 
 ### Go
-- [Quero Ser Programador](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
+- [Filho da nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 
 ### IA
 - [O computeiro](https://www.youtube.com/channel/UCVQmfJICjDUZOnfwfyu0qMQ)
@@ -137,6 +137,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### PHP
 - [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) 
+- [Filho da nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 
 ### PWA
 - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA) 
