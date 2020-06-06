@@ -112,6 +112,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Go
 - [Filho da nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
+- [Ellen Körbes](https://www.youtube.com/channel/UCxD5EE0H7qOhRr0tIVsOZPQ)
 
 ### IA
 - [O computeiro](https://www.youtube.com/channel/UCVQmfJICjDUZOnfwfyu0qMQ)
