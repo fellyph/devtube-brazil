@@ -70,6 +70,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
+- [Python Pro](https://www.youtube.com/channel/UCGjx62365UJ8XTWU_5GZC-g)
 
 ### Cloud 
 - [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
@@ -147,6 +148,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Python 
 - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
+- [Python Pro](https://www.youtube.com/channel/UCGjx62365UJ8XTWU_5GZC-g)
 
 ### React
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
