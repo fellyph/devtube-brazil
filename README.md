@@ -161,6 +161,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Python 
 - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
+- [Eduardo Mendes](https://www.youtube.com/c/Dunossauro)
 - [Python Pro](https://www.youtube.com/channel/UCGjx62365UJ8XTWU_5GZC-g)
 
 ### React
