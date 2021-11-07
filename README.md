@@ -77,6 +77,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Future Cloud](https://www.youtube.com/user/itirohidaka/videos)
 
 ### CSS
+ - [dpw](https://www.youtube.com/c/dpwoficial)
  - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
 ### Data Science
@@ -100,6 +101,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Front-end
  - [BrazilJS](https://www.youtube.com/user/BrazilJS)
+ - [dpw](https://www.youtube.com/c/dpwoficial)
  - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA)
  - [O Programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg)
  - [Davidson Fellipe](https://www.youtube.com/channel/UCHbWMt6KrLUwCexeiAFjUBg)
