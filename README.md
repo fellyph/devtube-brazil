@@ -40,7 +40,8 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
   - [Python](#Python) 
   - [React](#React) 
   - [Ruby](#Ruby) 
-  - [SEO](#SEO) 
+  - [SEO](#SEO)
+  - [TypeScript](#TypeScript) 
   - [Unity](#Unity)
   - [Vue](#Vue) 
   - [WordPress](#WordPress)
@@ -160,6 +161,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### React
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+- [Fernando Daciuk](https://www.youtube.com/c/queroserninja)
 - [Vinicius Dacal](https://www.youtube.com/c/ViniciusDacal)
 
 ### React-Native
@@ -168,6 +170,9 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Ruby
 
 ### SEO
+
+### TypeScript
+- [Fernando Daciuk](https://www.youtube.com/c/queroserninja)
 
 ### Unity
 - [Crie seus jogos](https://www.youtube.com/channel/UCXxkw9HWPVXVZsi1oTVvKCQ)
