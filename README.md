@@ -140,6 +140,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
 ### Laravel
+- [Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
 
 ### .NET
 - [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
@@ -162,6 +163,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### React
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Fernando Daciuk](https://www.youtube.com/c/queroserninja)
+- [Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
 - [Vinicius Dacal](https://www.youtube.com/c/ViniciusDacal)
 
 ### React-Native
@@ -178,6 +180,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Crie seus jogos](https://www.youtube.com/channel/UCXxkw9HWPVXVZsi1oTVvKCQ)
 
 ### Vue
+- [Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
 - [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 
 ### WordPress
