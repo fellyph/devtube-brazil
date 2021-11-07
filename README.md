@@ -133,6 +133,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### JavaScript
 - [BrazilJS](https://www.youtube.com/user/BrazilJS)
+- [Emerson Broga](https://www.youtube.com/c/EmersonBroga)
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [Marco Bruno](https://www.youtube.com/c/MarcoBrunoDev)
@@ -147,6 +148,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 
 ### Node
+- [Emerson Broga](https://www.youtube.com/c/EmersonBroga)
 - [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/videos)
 
 ### PHP
@@ -163,6 +165,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### React
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+- [Emerson Broga](https://www.youtube.com/c/EmersonBroga)
 - [Fernando Daciuk](https://www.youtube.com/c/queroserninja)
 - [Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
 - [Vinicius Dacal](https://www.youtube.com/c/ViniciusDacal)
