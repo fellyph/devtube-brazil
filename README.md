@@ -78,6 +78,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### CSS
  - [dpw](https://www.youtube.com/c/dpwoficial)
+ - [Marco Bruno](https://www.youtube.com/c/MarcoBrunoDev)
  - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
 ### Data Science
@@ -103,6 +104,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
  - [BrazilJS](https://www.youtube.com/user/BrazilJS)
  - [dpw](https://www.youtube.com/c/dpwoficial)
  - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA)
+ - [Marco Bruno](https://www.youtube.com/c/MarcoBrunoDev)
  - [O Programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg)
  - [Davidson Fellipe](https://www.youtube.com/channel/UCHbWMt6KrLUwCexeiAFjUBg)
  - [Willian Justen](https://www.youtube.com/user/willjusten/)
@@ -130,6 +132,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [BrazilJS](https://www.youtube.com/user/BrazilJS)
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+- [Marco Bruno](https://www.youtube.com/c/MarcoBrunoDev)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
