@@ -114,6 +114,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Geral
 - [Área Tech Brasil](https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ)
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+- [Fabio Akita](https://www.youtube.com/c/FabioAkita1990)
 - [Jamilton Damasceno](https://www.youtube.com/user/jamiltondamasceno2)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 
