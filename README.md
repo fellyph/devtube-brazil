@@ -140,7 +140,8 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/videos)
 
 ### PHP
-- [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) 
+- [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug)
+- [Dias de Dev](https://www.youtube.com/c/DiasdeDev) 
 - [Filho da nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 
 ### PWA
