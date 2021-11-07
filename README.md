@@ -59,6 +59,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Angular
 - [Loiane Groner](https://www.youtube.com/user/Loianeg)
+- [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 
 ### Arquitetura
 - [Engenharia Reversa](https://www.youtube.com/channel/UCagV1LuB6C52fFtZwVywZYg)
@@ -133,6 +134,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [Marco Bruno](https://www.youtube.com/c/MarcoBrunoDev)
+- [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
@@ -170,6 +172,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Crie seus jogos](https://www.youtube.com/channel/UCXxkw9HWPVXVZsi1oTVvKCQ)
 
 ### Vue
+- [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 
 ### WordPress
 - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
