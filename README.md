@@ -160,6 +160,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### React
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+- [Vinicius Dacal](https://www.youtube.com/c/ViniciusDacal)
 
 ### React-Native
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
