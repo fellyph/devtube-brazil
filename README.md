@@ -133,6 +133,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### JavaScript
 - [BrazilJS](https://www.youtube.com/user/BrazilJS)
+- [Dev Soutinho](https://www.youtube.com/c/DevSoutinho)
 - [Emerson Broga](https://www.youtube.com/c/EmersonBroga)
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
@@ -167,6 +168,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### React
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+- [Dev Soutinho](https://www.youtube.com/c/DevSoutinho)
 - [Emerson Broga](https://www.youtube.com/c/EmersonBroga)
 - [Fernando Daciuk](https://www.youtube.com/c/queroserninja)
 - [Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
