@@ -13,36 +13,36 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - Manter a ordem alfabética e nas categorias listadas abaixo:
   - [Actions on Google](#Actions-on-Google)
   - [Agile](#Agile)
-  - [Android](#Android) 
-  - [Angular](#Angular) 
-  - [Arquitetura](#Arquitetura) 
+  - [Android](#Android)
+  - [Angular](#Angular)
+  - [Arquitetura](#Arquitetura)
   - [Back-end](#Back-end)
-  - [Carreira](#Carreira) 
-  - [Cloud](#Cloud) 
-  - [CSS](#CSS) 
-  - [Data Science](#Data-Science)  
-  - [Devops](#Devops) 
+  - [Carreira](#Carreira)
+  - [Cloud](#Cloud)
+  - [CSS](#CSS)
+  - [Data Science](#Data-Science)
+  - [Devops](#Devops)
   - [Docker](#Docker)
   - [Firebase](#Firebase)
-  - [Flutter](#Flutter) 
+  - [Flutter](#Flutter)
   - [Front-end](#)
-  - [Geral](#Geral) 
-  - [Go](#Go) 
+  - [Geral](#Geral)
+  - [Go](#Go)
   - [IA](#IA)
   - [IOT](#IOT)
-  - [Java](#Java) 
-  - [JavaScript](#JavaScript) 
-  - [Laravel](#Laravel) 
-  - [.NET](#.NET) 
-  - [Node](#Node) 
-  - [PHP](#PHP) 
-  - [PWA](#PWA) 
-  - [Python](#Python) 
-  - [React](#React) 
-  - [Ruby](#Ruby) 
-  - [SEO](#SEO) 
+  - [Java](#Java)
+  - [JavaScript](#JavaScript)
+  - [Laravel](#Laravel)
+  - [.NET](#.NET)
+  - [Node](#Node)
+  - [PHP](#PHP)
+  - [PWA](#PWA)
+  - [Python](#Python)
+  - [React](#React)
+  - [Ruby](#Ruby)
+  - [SEO](#SEO)
   - [Unity](#Unity)
-  - [Vue](#Vue) 
+  - [Vue](#Vue)
   - [WordPress](#WordPress)
 
 # Canais por tópico
@@ -69,15 +69,16 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Carreira
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+- [DevPleno](https://www.youtube.com/c/Devplenocom)
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
 - [Python Pro](https://www.youtube.com/channel/UCGjx62365UJ8XTWU_5GZC-g)
 
-### Cloud 
+### Cloud
 - [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
 - [Future Cloud](https://www.youtube.com/user/itirohidaka/videos)
 
 ### CSS
- - [Willian Justen](https://www.youtube.com/user/willjusten/) 
+ - [Willian Justen](https://www.youtube.com/user/willjusten/)
 
 ### Data Science
 - [Programação Dinâmica](https://www.youtube.com/channel/UC70mr11REaCqgKke7DPJoLg)
@@ -108,6 +109,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Geral
 - [Área Tech Brasil](https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ)
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+- [DevPleno](https://www.youtube.com/c/Devplenocom)
 - [Jamilton Damasceno](https://www.youtube.com/user/jamiltondamasceno2)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 
@@ -121,7 +123,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### IOT
 - [Alvaro Viebrantz](https://www.youtube.com/channel/UC89Gzw1wIFXganAibMAnCOg)
 
-### Java 
+### Java
 - [Loiane Groner](https://www.youtube.com/user/Loianeg)
 
 ### JavaScript
@@ -129,7 +131,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
-- [Willian Justen](https://www.youtube.com/user/willjusten/) 
+- [Willian Justen](https://www.youtube.com/user/willjusten/)
 
 ### Laravel
 
@@ -140,13 +142,13 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/videos)
 
 ### PHP
-- [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) 
+- [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug)
 - [Filho da nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 
 ### PWA
-- [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA) 
+- [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA)
 
-### Python 
+### Python
 - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
 - [Python Pro](https://www.youtube.com/channel/UCGjx62365UJ8XTWU_5GZC-g)
 
