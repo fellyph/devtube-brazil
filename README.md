@@ -25,7 +25,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
   - [Docker](#Docker)
   - [Firebase](#Firebase)
   - [Flutter](#Flutter) 
-  - [Front-end](#)
+  - [Front-end](#Front-end)
   - [Geral](#Geral) 
   - [Go](#Go) 
   - [IA](#IA)
@@ -40,7 +40,8 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
   - [Python](#Python) 
   - [React](#React) 
   - [Ruby](#Ruby) 
-  - [SEO](#SEO) 
+  - [SEO](#SEO)
+  - [TypeScript](#TypeScript) 
   - [Unity](#Unity)
   - [Vue](#Vue) 
   - [WordPress](#WordPress)
@@ -59,6 +60,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Angular
 - [Loiane Groner](https://www.youtube.com/user/Loianeg)
+- [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 
 ### Arquitetura
 - [Engenharia Reversa](https://www.youtube.com/channel/UCagV1LuB6C52fFtZwVywZYg)
@@ -77,6 +79,8 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Future Cloud](https://www.youtube.com/user/itirohidaka/videos)
 
 ### CSS
+ - [dpw](https://www.youtube.com/c/dpwoficial)
+ - [Marco Bruno](https://www.youtube.com/c/MarcoBrunoDev)
  - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
 ### Data Science
@@ -100,7 +104,9 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Front-end
  - [BrazilJS](https://www.youtube.com/user/BrazilJS)
+ - [dpw](https://www.youtube.com/c/dpwoficial)
  - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA)
+ - [Marco Bruno](https://www.youtube.com/c/MarcoBrunoDev)
  - [O Programador](https://www.youtube.com/channel/UCa4Dj04ABMCxBUJ_aWTP9Bg)
  - [Davidson Fellipe](https://www.youtube.com/channel/UCHbWMt6KrLUwCexeiAFjUBg)
  - [Willian Justen](https://www.youtube.com/user/willjusten/)
@@ -108,6 +114,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 ### Geral
 - [Área Tech Brasil](https://www.youtube.com/channel/UCpOSu4F9cqSjh1OgbmOT5cQ)
 - [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+- [Fabio Akita](https://www.youtube.com/c/FabioAkita1990)
 - [Jamilton Damasceno](https://www.youtube.com/user/jamiltondamasceno2)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 
@@ -126,21 +133,29 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### JavaScript
 - [BrazilJS](https://www.youtube.com/user/BrazilJS)
+- [Dev Soutinho](https://www.youtube.com/c/DevSoutinho)
+- [Emerson Broga](https://www.youtube.com/c/EmersonBroga)
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
 - [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+- [Marco Bruno](https://www.youtube.com/c/MarcoBrunoDev)
+- [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 - [TecNoz by Daniel Cukier](https://www.youtube.com/channel/UChYjkvwc_H1I_SeMPg2KM2w)
 - [Willian Justen](https://www.youtube.com/user/willjusten/) 
 
 ### Laravel
+- [Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
 
 ### .NET
 - [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
 
 ### Node
+- [Emerson Broga](https://www.youtube.com/c/EmersonBroga)
 - [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/videos)
 
 ### PHP
-- [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug) 
+- [Alex Rosa](https://www.youtube.com/c/AlexRosaNet)
+- [Celke](https://www.youtube.com/channel/UC5ClMRHFl8o_MAaO4w7ZYug)
+- [Dias de Dev](https://www.youtube.com/c/DiasdeDev) 
 - [Filho da nuvem](https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ)
 
 ### PWA
@@ -148,10 +163,16 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Python 
 - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
+- [Eduardo Mendes](https://www.youtube.com/c/Dunossauro)
 - [Python Pro](https://www.youtube.com/channel/UCGjx62365UJ8XTWU_5GZC-g)
 
 ### React
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
+- [Dev Soutinho](https://www.youtube.com/c/DevSoutinho)
+- [Emerson Broga](https://www.youtube.com/c/EmersonBroga)
+- [Fernando Daciuk](https://www.youtube.com/c/queroserninja)
+- [Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
+- [Vinicius Dacal](https://www.youtube.com/c/ViniciusDacal)
 
 ### React-Native
 - [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg)
@@ -160,10 +181,15 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### SEO
 
+### TypeScript
+- [Fernando Daciuk](https://www.youtube.com/c/queroserninja)
+
 ### Unity
 - [Crie seus jogos](https://www.youtube.com/channel/UCXxkw9HWPVXVZsi1oTVvKCQ)
 
 ### Vue
+- [Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
+- [Rodrigo Branas](https://www.youtube.com/c/RodrigoBranas)
 
 ### WordPress
 - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
