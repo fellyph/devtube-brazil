@@ -1,6 +1,6 @@
-# Canais Brasileiros no Youtube sobre Tecnologia :brazil:
+# Canais Brasileiros no YouTube sobre Tecnologia :brazil:
 
-Curadoria de canais Brasileiros sobre tecnologia
+Curadoria colaborativa de canais Brasileiros sobre tecnologia.
 
 ## Objetivo
 
