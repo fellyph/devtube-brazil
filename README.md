@@ -53,6 +53,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Agile
 - [Agilizando!](https://www.youtube.com/channel/UC7SHkNw64rBRnU0zr5M74Yw)
+- [Agilidade em curso](https://www.youtube.com/channel/UCWaQbZPaTnQXhcaI8AH04TA)
 
 ### Android
 - [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
