@@ -22,6 +22,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
   - [CSS](#CSS) 
   - [Data Science](#Data-Science)  
   - [Devops](#Devops) 
+  - [Diversos](#Diversos)
   - [Docker](#Docker)
   - [Firebase](#Firebase)
   - [Flutter](#Flutter) 
@@ -67,6 +68,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Fabio Akita](https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ)
 
 ### Back-end
+- [Mundo dos Computadores](http://www.youtube.com/c/mundodoscomputadores)
 
 ### Carreira
 - [Attekita Dev](https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g)
@@ -90,6 +92,9 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
 - [Linux 4Fasters](https://www.youtube.com/channel/UCeLm2Lzs0-CBsgiEyGXXI8g)
 - [Matheus Fidelissauro](https://www.youtube.com/channel/UC-JJ1NXjx8QI-tuG0PMFbhA/videos)
+
+### Diversos
+- [Mundo dos Computadores](http://www.youtube.com/c/mundodoscomputadores)
 
 ### Docker
 - [Linuxtips](https://www.youtube.com/user/linuxtipscanal)
@@ -144,6 +149,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Laravel
 - [Matheus Battisti](https://www.youtube.com/c/MatheusBattisti)
+- [Mundo dos Computadores](http://www.youtube.com/c/mundodoscomputadores)
 
 ### .NET
 - [balta.io](https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg)
