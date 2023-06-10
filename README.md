@@ -156,6 +156,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 
 ### Node
 - [Emerson Broga](https://www.youtube.com/c/EmersonBroga)
+- [Guia do Programador](https://www.youtube.com/@GuiadoProgramador)
 - [NodeBR](https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw/videos)
 
 ### PHP
@@ -168,6 +169,7 @@ Este projeto visa compilar canais Brasileiros sobre tecnologia listados por Tema
 - [Fellyph Cintra](https://www.youtube.com/channel/UCPaufJocHYVHj44iwXG95PA) 
 
 ### Python 
+- [Algoritmo Criativo](https://www.youtube.com/@algoritmocriativo)
 - [Curso em Video](https://www.youtube.com/user/cursosemvideo)
 - [Eduardo Mendes](https://www.youtube.com/c/Dunossauro)
 - [Python Pro](https://www.youtube.com/channel/UCGjx62365UJ8XTWU_5GZC-g)
